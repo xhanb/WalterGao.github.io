@@ -17,7 +17,7 @@ sidebar-avatar: /img/IMG_20160822_135427.jpg      # use absolute URL, seeing it'
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     qiubaiying
 #zhihu_username:     
 github_username:    xhanb
